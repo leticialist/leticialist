@@ -15,7 +15,7 @@ Olá, meu nome é Letícia. 👋
   #### Me acompanhe nas redes sociais 
  
 <div> 
-  <a href="https://instagram.com/leticialist" target="_blank" rel="external" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
+ <!-- <a href="https://instagram.com/leticialist" target="_blank" rel="external" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a> -->
   <a href="https://www.linkedin.com/in/leticialist" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
 
 </div>
