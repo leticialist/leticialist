@@ -5,14 +5,14 @@ Sou uma <strong>desenvolvedora front-end</strong> em formação.
 
 <div>
   <a href="https://github.com/leticialist">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&layout=compact&langs_count=6&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
 ##
