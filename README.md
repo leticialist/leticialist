@@ -1,5 +1,5 @@
-<h2 align="center"> Olá! Eu sou a Letícia Soares. 👋 </h2>
-<p align="center">Sou uma <strong>desenvolvedora front-end</strong> em formação.</p>
+<h2 align="center"> Olá! Eu sou a Letícia Soares.  </h2>
+<p align="center">Sou uma <strong>desenvolvedora front-end</strong> em formação. 🌱</p>
 
 ##
 
