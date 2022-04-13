@@ -1,8 +1,4 @@
-<img align="right" width="120" src="https://i.imgur.com/RRKAXtB.png">
-<h2 align="center"> Olá! Eu sou a Letícia Soares.  </h2>
-<p align="center">Sou uma <strong>desenvolvedora front-end</strong> em formação. 🌱</p>
-
-##
+<h2 align="center"> Olá! Eu sou a Letícia Soares. Uma desenvolvedora front-end em formação!</h2>
 
 <div align="center">
   <a href="https://github.com/leticialist">
@@ -14,6 +10,7 @@
    <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="right" width="120" src="https://i.imgur.com/RRKAXtB.png">
 </div>
   
 ##
