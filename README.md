@@ -1,3 +1,4 @@
+<img align="right" width="120" src="https://i.imgur.com/RRKAXtB.png">
 <h2 align="center"> Olá! Eu sou a Letícia Soares.  </h2>
 <p align="center">Sou uma <strong>desenvolvedora front-end</strong> em formação. 🌱</p>
 
