@@ -1,4 +1,4 @@
-<h2 align="center"> Olá! Eu sou a Letícia Soares. Uma Desenvolvedora FrontEnd em formação!</h2>
+<h2 align="center"> Olá! Sou a Letícia Soares. Uma Desenvolvedora FrontEnd! </h2>
 
 <div align="center">
   <a href="https://github.com/leticialist">
