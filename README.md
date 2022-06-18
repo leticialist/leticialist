@@ -7,10 +7,10 @@
 </div>
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leticia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leticia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/64/undefined/html-5.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/64/undefined/css3.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/64/undefined/react.png">
   <img align="right" width="120" src="https://i.imgur.com/RRKAXtB.png">
 </div>
   
