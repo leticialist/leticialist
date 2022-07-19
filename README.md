@@ -7,10 +7,10 @@
 
 <div align="left" style="display: inline_block"><br>  
   <h4>Atualmente estudando e me aprofundando em: </h4>
-  <img align="center" width="40" src="https://img.icons8.com/color/344/html-5--v1.png">
-  <img align="center" width="40" src="https://img.icons8.com/color/344/css3.png">
-  <img align="center" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
-  <img align="center" width="40" src="https://img.icons8.com/color/344/react-native.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/344/html-5.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/344/css3.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/344/javascript-logo.png">
+  <img align="center" width="40" src="https://img.icons8.com/dusk/344/react.png">
   <img align="right" width="130" src="https://imgur.com/A6cCBpj.png">
 </div>  
 <div align="left"> 
