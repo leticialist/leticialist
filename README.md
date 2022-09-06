@@ -1,4 +1,4 @@
-<img width="500" src="https://i.imgur.com/zsdP3jc.png"> <br>
+<img width="600" src="https://i.imgur.com/khq06va.png"> <br>
 
 
 ## Olá, sou a Letícia Soares! 
