@@ -22,15 +22,15 @@
   <h4>Onde você pode me encontrar: </h4>
     
   <a href="https://www.linkedin.com/in/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%23d27ac9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%232D93AD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
   <a href = "mailto:leticialist@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-d27ac9?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-F87666?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
   
   <a href="https://discordapp.com/users/286151221772025857" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-d27ac9?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
   </a>
   
   <a href="https://instagram.com/leticialist" target="_blank">
@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
-  <img src="https://img.shields.io/badge/-Spotify-%23d27ac9?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Spotify-%2351CB20?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
   
 </div>
