@@ -37,6 +37,10 @@
   <img src="https://img.shields.io/badge/-Instagram-%23d27ac9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
+  <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
+  <img src="https://img.shields.io/badge/-Spotify-%23d27ac9?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a>
+  
 </div>
 
 ## 
