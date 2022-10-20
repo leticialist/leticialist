@@ -13,11 +13,25 @@
   <img align="center" width="40" src="https://i.imgur.com/QUkEF8Y.png">
   <img align="right" width="130" src="https://imgur.com/A6cCBpj.png">
 </div>  
+
 <div align="left"> 
   <h4>Onde você pode me encontrar: </h4>
-  <a href="https://instagram.com/leticialist" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23d27ac9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/leticialist" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23d27ac9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leticialist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d27ac9?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://instagram.com/leticialist" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23d27ac9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/leticialist" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%23d27ac9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+  <a href = "mailto:leticialist@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-d27ac9?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>  
+  
+  <a href="https://discordapp.com/users/286151221772025857" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-d27ac9?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
+  </a>
+  
 </div>
 
 ## 
