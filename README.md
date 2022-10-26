@@ -9,10 +9,10 @@
 
   <h4>Atualmente estudando e me aprofundando em: </h4>
   
-  <img align="center" width="40" src="https://i.imgur.com/1xZmfYw.png">
-  <img align="center" width="40" src="https://i.imgur.com/j3RrxEK.png">
-  <img align="center" width="40" src="https://i.imgur.com/IRZV1i1.png">
-  <img align="center" width="40" src="https://i.imgur.com/QUkEF8Y.png">
+  <img align="center" width="40" src="https://i.imgur.com/TsTBDSP.png">
+  <img align="center" width="40" src="https://i.imgur.com/P335cJf.png">
+  <img align="center" width="40" src="https://i.imgur.com/h9iipbx.png">
+  <img align="center" width="40" src="https://i.imgur.com/rwru8nv.png">
   
   <img align="right" width="130" src="https://imgur.com/A6cCBpj.png">
   
