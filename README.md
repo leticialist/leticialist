@@ -5,18 +5,22 @@
 
 #### Formada em Design Gráfico e Pós-Graduada em Tecnologias pra Aplicações Web, sigo profissionalmente na área como Desenvolvedora Frontend Júnior. Sempre em busca de conhecimento e aperfeiçoamento profissional!
 
+
+
 <div align="left" style="display: inline_block"><br> 
+  
 
   <h4>Atualmente estudando e me aprofundando em: </h4>
   
+  <img align="right" width="125" src="https://imgur.com/A6cCBpj.png">
   <img src="https://img.shields.io/badge/-HTML-%23c175bf?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-%23c175bf?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-%23c175bf?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-%23c175bf?style=for-the-badge&logo=react&logoColor=white">
   
-  <img align="right" width="130" src="https://imgur.com/A6cCBpj.png">
   
 </div>  
+
 
 <div align="left"> 
   <h4>Onde você pode me encontrar: </h4>
