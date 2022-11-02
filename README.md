@@ -9,10 +9,10 @@
 
   <h4>Atualmente estudando e me aprofundando em: </h4>
   
-  <img align="center" width="50" src="https://i.imgur.com/GpQ29m9.png">
-  <img align="center" width="50" src="https://i.imgur.com/PMk0b7k.png">
-  <img align="center" width="50" src="https://i.imgur.com/7KlubP8.png">
-  <img align="center" width="50" src="https://i.imgur.com/72lOVeY.png">
+  <img src="https://img.shields.io/badge/-HTML-%23c175bf?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-%23c175bf?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-%23c175bf?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-%23c175bf?style=for-the-badge&logo=react&logoColor=white">
   
   <img align="right" width="130" src="https://imgur.com/A6cCBpj.png">
   
@@ -31,10 +31,6 @@
   
   <a href="https://discordapp.com/users/286151221772025857" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-563d7c?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
-  </a>
-  
-  <a href="https://instagram.com/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23c175bf?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
   <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
