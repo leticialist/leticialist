@@ -26,19 +26,19 @@
   <h4>Onde você pode me encontrar: </h4>
     
   <a href="https://www.linkedin.com/in/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-e582d8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-da7ed0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
   <a href = "mailto:leticialist@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-e582d8?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-da7ed0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
   
   <a href="https://discordapp.com/users/286151221772025857" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-e582d8?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-da7ed0?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
   </a>
   
   <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
-  <img src="https://img.shields.io/badge/-Spotify-e582d8?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Spotify-da7ed0?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
   
 </div>
