@@ -13,10 +13,10 @@
   <h4>Atualmente estudando e me aprofundando em: </h4>
   
   <img align="right" width="125" src="https://imgur.com/A6cCBpj.png">
-  <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-%230775d4?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-e06e51?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-806ba0?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-eee17f?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-569ad5?style=for-the-badge&logo=react&logoColor=white">
   
   
 </div>  
