@@ -44,15 +44,31 @@
   
 </div>
 
+##
+
+<div align="center">
+  <h3>Principais projetos:</h3>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/projeto-pokedex) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/mini-portfolio)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/projeto-lista-tarefas)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/projeto-pretty-jewelry)
+    
+</div>
+
 ## 
 
 <div align="center">
+  <h3>Estatísticas:</h3>
+  
   <a href="https://github.com/leticialist">
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&theme=ocean_dark"/>
+    
 </div> 
-  
+ 
 
+  
 
