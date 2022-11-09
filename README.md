@@ -49,13 +49,13 @@
 <div align="center">
   <img width="300" src="https://i.imgur.com/g0btEpR.png"> <br> <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=4784ca
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
 )](https://github.com/leticialist/projeto-pokedex) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=4784ca
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
 )](https://github.com/leticialist/mini-portfolio)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=4784ca
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
 )](https://github.com/leticialist/projeto-lista-tarefas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=4784ca
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
 )](https://github.com/leticialist/projeto-pretty-jewelry)
     
 </div>
@@ -67,9 +67,9 @@
   
   <a href="https://github.com/leticialist">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=4784ca"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e"/>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&theme=ocean_dark&bg_color=00000000&icon_color=4784ca"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&theme=ocean_dark&bg_color=00000000&icon_color=5e88d0&text_color=31978e"/>
     
 </div> 
  
