@@ -1,4 +1,6 @@
-<img width="600" src="https://i.imgur.com/xKkHNUm.png"> <br>
+<div align="center">
+<img width="600" src="https://i.imgur.com/HBJgqwx.png"> <br>
+</div>
 
 
 ## Olá, sou a Letícia Soares! 
@@ -8,8 +10,7 @@
 
 
 <div align="left" style="display: inline_block"><br> 
-  
-
+ 
   <h4>Atualmente estudando e me aprofundando em: </h4>
   
   <img align="right" width="125" src="https://i.imgur.com/dEKXsWO.png">
@@ -21,7 +22,6 @@
   
   
 </div>  
-
 
 <div align="left"> 
   <h4>Onde você pode me encontrar: </h4>
@@ -47,7 +47,7 @@
 ##
 
 <div align="center">
-  <h3>Principais projetos:</h3>
+  <img width="300" src="https://i.imgur.com/g0btEpR.png"> <br> <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/projeto-pokedex) 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&theme=ocean_dark&show_owner=true)](https://github.com/leticialist/mini-portfolio)
@@ -59,7 +59,7 @@
 ## 
 
 <div align="center">
-  <h3>Estatísticas:</h3>
+  <img width="180" src="https://i.imgur.com/s6vLB2q.png"> <br> <br>
   
   <a href="https://github.com/leticialist">
   
