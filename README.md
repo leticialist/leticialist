@@ -38,10 +38,6 @@
   <img src="https://img.shields.io/badge/-Discord-794f9f?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
   </a>
   
-  <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
-  <img src="https://img.shields.io/badge/-Spotify-794f9f?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-  </a>
-  
 </div>
 
 ##
