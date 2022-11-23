@@ -27,19 +27,19 @@
   <h4>Onde você pode me encontrar: </h4>
     
   <a href="https://www.linkedin.com/in/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-794f9f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-a67fd4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
   <a href = "mailto:leticialist@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-794f9f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-a67fd4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
   
   <a href="https://discordapp.com/users/286151221772025857" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-794f9f?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-a67fd4?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
   </a>
  
  <a href="https://open.spotify.com/user/desabite?si=3c53cd74558a4c13" target="_blank">
-  <img src="https://img.shields.io/badge/-Spotify-794f9f?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Spotify-a67fd4?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
   
 </div>
@@ -49,13 +49,13 @@
 <div align="center">
   <img width="300" src="https://i.imgur.com/g0btEpR.png"> <br> <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
 )](https://github.com/leticialist/projeto-pokedex) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
 )](https://github.com/leticialist/mini-portfolio)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
 )](https://github.com/leticialist/projeto-lista-tarefas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&theme=ocean_dark&show_owner=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
 )](https://github.com/leticialist/projeto-pretty-jewelry)
     
 </div>
@@ -67,12 +67,8 @@
   
   <a href="https://github.com/leticialist">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=5e88d0&text_color=31978e"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&include_all_commits=true&count_private=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&theme=ocean_dark&bg_color=00000000&icon_color=5e88d0&text_color=31978e"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
     
 </div> 
- 
-
-  
-
