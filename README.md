@@ -44,6 +44,18 @@
   
 </div>
 
+###
+
+<div align="center">  
+ 
+  <a href="https://github.com/leticialist">
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&include_all_commits=true&count_private=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
+    
+</div> 
+
 ##
 
 <div align="center">
@@ -59,16 +71,3 @@
 )](https://github.com/leticialist/projeto-pretty-jewelry)
     
 </div>
-
-## 
-
-<div align="center">
-  <img width="180" src="https://i.imgur.com/s6vLB2q.png"> <br> <br>
-  
-  <a href="https://github.com/leticialist">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&include_all_commits=true&count_private=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
-    
-</div> 
