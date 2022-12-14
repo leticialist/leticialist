@@ -1,5 +1,5 @@
 <div align="center">
-<img width="600" src="https://i.imgur.com/HBJgqwx.png"> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=40&pause=1000&color=A67FD4&width=565&height=60&lines=Desenvolvedora+Frontend+J%C3%BAnior" alt="Typing SVG" /></a>
 </div>
 
 
@@ -59,7 +59,7 @@
 ##
 
 <div align="center">
-  <img width="300" src="https://i.imgur.com/g0btEpR.png"> <br> <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&weight=300&size=40&duration=3000&pause=10000000&color=A67FD4&width=340&height=60&lines=Principais+Projetos%3A" alt="Typing SVG" /></a>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
 )](https://github.com/leticialist/projeto-pokedex) 
