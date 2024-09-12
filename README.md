@@ -1,8 +1,4 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=40&pause=1000&color=A67FD4&width=565&height=60&lines=Desenvolvedora+Frontend+J%C3%BAnior" alt="Typing SVG" /></a>
-</div>
-
-
 ## Olá, sou a Letícia Soares! 
 
 #### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Desenvolvedora Frontend Júnior. Sempre em busca de conhecimento e aperfeiçoamento profissional!
