@@ -1,7 +1,6 @@
-## Olá, sou a Letícia Soares! 
+## Olá, seja bem-vindo(a)!
 
-#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Desenvolvedora Frontend Júnior. Sempre em busca de conhecimento e aperfeiçoamento profissional!
-
+#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Desenvolvedora Front-end Júnior. Sempre em busca de conhecimento e aperfeiçoamento profissional!
 
 
 <div align="left" style="display: inline_block"><br> 
