@@ -45,19 +45,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialist&&layout=compact&langs_count=6&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
     
 </div> 
-
-##
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&weight=300&size=40&duration=3000&pause=10000000&color=A67FD4&width=340&height=60&lines=Principais+Projetos%3A" alt="Typing SVG" /></a>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pokedex&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
-)](https://github.com/leticialist/projeto-pokedex) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=mini-portfolio&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
-)](https://github.com/leticialist/mini-portfolio)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-lista-tarefas&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
-)](https://github.com/leticialist/projeto-lista-tarefas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticialist&repo=projeto-pretty-jewelry&show_owner=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca
-)](https://github.com/leticialist/projeto-pretty-jewelry)
-    
-</div>
