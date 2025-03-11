@@ -20,25 +20,15 @@
 <div align="left"> 
   <h4>Onde você pode me encontrar: </h4>
     
-  <a href="https://www.linkedin.com/in/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-a67fd4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://linkme.bio/leticialist" target="_blank">
+  <img src="https://img.shields.io/badge/-all my links-a67fd4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
-  <a href = "mailto:leticialist@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-a67fd4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>  
-  
-  <a href="https://discordapp.com/users/286151221772025857" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-a67fd4?logo=discord&logoColor=white&style=for-the-badge" target="_blank">
-  </a>
-  
+
 </div>
 
 ###
 
 <div align="center">  
- 
-  <a href="https://github.com/leticialist">
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leticialist&show_icons=true&include_all_commits=true&count_private=true&title_color=a67fd4&bg_color=00000000&icon_color=a67fd4&text_color=7fdbca"/>
   
