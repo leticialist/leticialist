@@ -17,15 +17,6 @@
   
 </div>  
 
-<div align="left"> 
-  <h4>Onde você pode me encontrar: </h4>
-    
-  <a href="https://linkme.bio/leticialist" target="_blank">
-  <img src="https://img.shields.io/badge/-all my links-a67fd4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-
-</div>
-
 ###
 
 <div align="center">  
