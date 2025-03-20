@@ -5,17 +5,28 @@
 
 <div align="left" style="display: inline_block"><br> 
  
-  <h4>Atualmente estudando e me aprofundando em: </h4>
+  <h4>Estudando: </h4>
   
   <img align="right" width="125" src="https://i.imgur.com/dEKXsWO.png">
   
-  <img src="https://img.shields.io/badge/-HTML-db6040?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-536fdd?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-eee17f?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-7ad8f1?style=for-the-badge&logo=react&logoColor=black">
-  
+  <img src="https://img.shields.io/badge/-HTML-7fdbca?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/-CSS-7fdbca?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-7fdbca?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-7fdbca?style=for-the-badge&logo=react&logoColor=black">
   
 </div>  
+
+<div align="left" style="display: inline_block"><br> 
+ 
+  <h4>Você pode me encontrar: </h4>
+  
+  <a href="https://www.linkedin.com/in/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-linkedin-a67fd4?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.instagram.com/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-instagram-a67fd4?style=for-the-badge&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/desabite?si=e5370d6f764944d9" target="_blank"> <img src="https://img.shields.io/badge/-spotify-a67fd4?style=for-the-badge&logoColor=black"></a>
+  <a href="https://steamcommunity.com/id/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-steam-a67fd4?style=for-the-badge&logoColor=black"></a>
+  
+  
+</div> 
 
 ###
 
