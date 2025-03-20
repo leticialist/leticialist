@@ -1,7 +1,6 @@
 ## Olá, seja bem-vindo(a)!
 
-#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Desenvolvedora Front-end Júnior. Sempre em busca de conhecimento e aperfeiçoamento profissional!
-
+#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Designer e Desenvolvedora Front-end.
 
 <div align="left" style="display: inline_block"><br> 
  
