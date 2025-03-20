@@ -19,10 +19,10 @@
  
   <h4>Você pode me encontrar: </h4>
   
-  <a href="https://www.linkedin.com/in/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-linkedin-a67fd4?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.instagram.com/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-instagram-a67fd4?style=for-the-badge&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/desabite?si=e5370d6f764944d9" target="_blank"> <img src="https://img.shields.io/badge/-spotify-a67fd4?style=for-the-badge&logoColor=black"></a>
-  <a href="https://steamcommunity.com/id/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-steam-a67fd4?style=for-the-badge&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-linkedin-a070b5?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.instagram.com/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-instagram-a070b5?style=for-the-badge&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/desabite?si=e5370d6f764944d9" target="_blank"> <img src="https://img.shields.io/badge/-spotify-a070b5?style=for-the-badge&logoColor=black"></a>
+  <a href="https://steamcommunity.com/id/leticialist/" target="_blank"> <img src="https://img.shields.io/badge/-steam-a070b5?style=for-the-badge&logoColor=black"></a>
   
   
 </div> 
