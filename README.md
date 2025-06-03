@@ -1,7 +1,6 @@
 ## Olá, seja bem-vindo(a)!
 
-#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Designer 
-e Desenvolvedora Front-end.
+#### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Designer <br> e Desenvolvedora Front-end.
 
 ###
 
