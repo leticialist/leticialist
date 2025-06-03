@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a)!
+## Oooi!
 
 #### Formada em Design Gráfico e Pós-Graduada em Tecnologias para Aplicações Web, sigo profissionalmente na área como Designer <br> e Desenvolvedora Front-end.
 
